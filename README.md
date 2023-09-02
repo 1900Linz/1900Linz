@@ -10,7 +10,7 @@
 #### here : qtFunction & qmlInterface
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1900Linz&repo=MyQtCode)](https://github.com/anuraghazra/github-readme-stats) <br/>
 #### here : communication on qt, such as redis 、 modbus 、 mqtt ....
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1900Linz&repo=QtDeviceCommunication)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1900Linz&repo=QtCommunication)](https://github.com/anuraghazra/github-readme-stats) <br/>
 <!--
 **1900Linz/1900Linz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
