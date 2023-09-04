@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1900Linz&repo=Qt-Plugin-platform)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 ### 🔭 My learn&work project fact : about qt
-#### here : qtFunction & qmlInterface
+#### here : qtFunction & qmlInterface & qt3d ...（Details can be found in the project_readme.md
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1900Linz&repo=MyQtCode)](https://github.com/anuraghazra/github-readme-stats) <br/>
 #### here : communication on qt, such as  modbus 、 mqtt ....
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1900Linz&repo=QtCommunication)](https://github.com/anuraghazra/github-readme-stats) <br/>
