@@ -3,8 +3,8 @@
 ### Its me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1900Linz&show_icons=true) <br/> 
 
-### ⚡ Fun fact: 灵活的插件结构
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1900Linz&repo=Qt-Plugin-platform)](https://github.com/1900Linz/Qt-Plugin-platform) <br/>
+### ⚡ Fun fact: 一些架构上的方案
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArchitectureMore)](https://github.com/1900Linz/ArchitectureMore) <br/>
 
 ### 🔭 My learn&work project fact : about qt
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1900Linz&repo=MyQtCode)](https://github.com/1900Linz/MyQtCode) <br/>
