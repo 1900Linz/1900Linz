@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 1900linz
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1900Linz&theme=tokyonight&layout=compact)
 
 ### 🌱Here My Recently plan
 #### some about dev/network communication 
@@ -19,8 +21,6 @@
 #### Architecture solution archiving
 - [x] [单进程 x 功能服务插件](https://github.com/1900Linz/ArchitectureMore/tree/main/QtExamplePlatFrom)
 - [ ] [多进程](https://github.com/1900Linz/ArchitectureMore/tree/main/MultiProcessExample)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1900Linz&theme=tokyonight&layout=compact)
 
 <!--
 **1900Linz/1900Linz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
