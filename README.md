@@ -5,7 +5,7 @@
 ### 🌱Here My Recently plan
 #### others tips on Qt developing way
 - [x] [中文乱码 - 解决方案](https://github.com/1900Linz/MyQtCode/tree/main/Qt_ChineseCharacterSolution)
-  💬 [blog](http://t.csdn.cn/REOSH)
+  [💬 ](http://t.csdn.cn/REOSH)
 <!--
 - [ ] 
 -->
