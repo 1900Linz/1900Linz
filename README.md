@@ -3,6 +3,12 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1900Linz&theme=tokyonight&layout=compact)
 
 ### 🌱Here My Recently plan
+#### others tips on Qt developing way
+- [x] [中文乱码 - 解决方案](https://github.com/1900Linz/MyQtCode/tree/main/Qt_ChineseCharacterSolution) <br/>
+<!--
+- [ ] 
+-->
+
 #### some about dev/network communication 
 - [x] [MQTT](https://github.com/1900Linz/QtCommunication/tree/main/withMQTT) <br/>
 - [x] [windows_Platform_USB](https://github.com/1900Linz/QtCommunication/tree/main/WithUsbHotPlugin) <br/>
@@ -16,7 +22,8 @@
 - [x] [QDataPool数据队列线程模板](https://github.com/1900Linz/MyQtCode/tree/main/QDataPool) <br/>
 - [x] [qt日志](https://github.com/1900Linz/MyQtCode/tree/main/LoggerBaseQt) <br/>
 - [x] [Qml_C++封装的文件系统访问窗口](https://github.com/1900Linz/MyQtCode/tree/main/FileDialogBaseQt) <br/>
-<!--- [ ] 
+<!--
+- [ ] 
 -->
 #### Architecture solution archiving
 - [x] [单进程 x 功能服务插件](https://github.com/1900Linz/ArchitectureMore/tree/main/QtExamplePlatFrom)
