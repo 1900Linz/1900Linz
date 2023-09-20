@@ -6,6 +6,7 @@
 #### others tips on Qt developing way
 - [x] [中文乱码 - 解决方案](https://github.com/1900Linz/MyQtCode/tree/main/Qt_ChineseCharacterSolution)
   [💬 ](http://t.csdn.cn/REOSH)
+
 <!--
 - [ ] 
 -->
@@ -18,6 +19,10 @@
 - [ ] [HTTPon5]()
 - [ ] [UsbCamera](https://github.com/1900Linz/QtCommunication/tree/main/withUsbCamera)
 
+<!--
+- [ ] 
+-->
+
 #### some qml Interface_Unit
 - [x] [qml实现的framelessWindow](https://github.com/1900Linz/MyQtCode/tree/main/Qml_framelessWindow) <br/>
 - [x] [QDataPool数据队列线程模板](https://github.com/1900Linz/MyQtCode/tree/main/QDataPool) <br/>
@@ -27,9 +32,11 @@
 - [ ] 
 -->
 #### Architecture solution archiving
-- [x] [单进程 x 功能服务插件](https://github.com/1900Linz/ArchitectureMore/tree/main/QtExamplePlatFrom)
-- [ ] [多进程](https://github.com/1900Linz/ArchitectureMore/tree/main/MultiProcessExample)
-
+- [ ] [Qt插件 5.15出现的新变化](https://github.com/1900Linz/SoftWareArch_SingleProcess-Plugin)
+  [💬 ](http://t.csdn.cn/3TVLo)
+- [ ] [多进程]()
+  [💬 ](http://t.csdn.cn/3TVLo)
+  
 <!--
 **1900Linz/1900Linz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
